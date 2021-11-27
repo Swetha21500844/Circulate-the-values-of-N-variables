@@ -30,6 +30,8 @@ def circulate():
 
 
 ## Output:
+![circulate ss](https://user-images.githubusercontent.com/94228215/143689807-83c670e1-be6a-4cda-b093-f5a3b823a210.PNG)
+
 
 
 ## Result:
